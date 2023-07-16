@@ -48,23 +48,23 @@ Below are some of the projects I have contributed to:
 <hr>
 
 ### 🛠 &nbsp;Tech Stack
+- <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" alt="JavaScript" width="120" height="30">&nbsp;
+- <img src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react" alt="React" width="100" height="30">&nbsp;
+- <img src="https://img.shields.io/badge/-React%20Native-05122A?style=flat&logo=react" alt="React Native" width="150" height="30">&nbsp;
+- <img src="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js" alt="Node.js" width="100" height="30">&nbsp;
+- <img src="https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518" alt="Java" width="80" height="30">&nbsp;
+- <img src="https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC" alt="C" width="70" height="30">&nbsp;
+- <img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5" alt="HTML" width="80" height="30">&nbsp;
+- <img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6" alt="CSS" width="70" height="30">&nbsp;
+- <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git" alt="Git" width="60" height="30">&nbsp;
+- <img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github" alt="GitHub" width="80" height="30">&nbsp;
+- <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC" alt="VS Code" width="150" height="30">&nbsp;
+- <img src="https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C" alt="Bootstrap" width="110" height="30">&nbsp;
+- <img src="https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255" alt="Eclipse" width="90" height="30">&nbsp;
+- <img src="https://img.shields.io/badge/-Tailwind%20CSS-05122A?style=flat&logo=tailwind-css" alt="Tailwind CSS" width="140" height="30">&nbsp;
+- <img src="https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb" alt="MongoDB" width="110" height="30">&nbsp;
+- <img src="https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase" alt="Firebase" width="100" height="30">&nbsp;
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![React Native](https://img.shields.io/badge/-React%20Native-05122A?style=flat&logo=react)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)\
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
-![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)&nbsp;
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-05122A?style=flat&logo=tailwind-css)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
-![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)&nbsp;
 
 
 <hr>
