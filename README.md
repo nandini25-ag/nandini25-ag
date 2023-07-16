@@ -5,11 +5,16 @@
 
 <hr>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nandini25-ag&label=Profile%20views&color=0e75b6&style=flat" alt="nandini25-ag" /> </p>
- 🔭 I like to explore new technologies and develop software solutions.
 
-- 🌱 I’m currently learning **React, DataStructure, JavaScript**
+🔭 I am a passionate developer with expertise in the following tech stacks, and I love to explore and create software solutions using these technologies:
 
-- 👯 I’m looking to collaborate on **ReactJs/ReactNative/javascript Projects**
+- **Frontend:** React, React Native, JavaScript, HTML5, CSS3
+- **Backend:** Node.js, Express.js, MongoDB
+- **Programming Languages:** JavaScript, Java
+- **Database:** MySQL, MongoDB, Firebase
+- **Tools & Others:** Git/GitHub, VS Code, Eclipse IDE
+
+I enjoy collaborating on ReactJS, React Native, and JavaScript projects, and I am always open to learning and exploring new technologies to expand my skillset further.
 
 - 📫 Contact me **here(Nandini25agarwal@gmail.com)**
 <hr>
@@ -22,6 +27,25 @@
 </p>
 <hr>
 
+## Projects
+
+Below are some of the projects I have contributed to:
+
+1. **OpenMind**
+   - Description: Developed a mobile application called OpenMind using React Native CLI and Firebase, leveraging OpenAI’s API to deliver a captivating and interactive user experience.
+   - My Contributions: Implemented real-time response generation using OpenAI’s API.
+   - Repository: [OpenMind](https://github.com/nandini25-ag/OpenMind)
+
+2. **TextUtils App**
+   - Description: Led the development of TextUtils, a versatile utility application that empowers users with a comprehensive suite of text manipulation tools.
+   - My Contributions: Implemented text formatting, case conversion, and string manipulation functionalities.
+   - Repository: [TextUtils](https://github.com/nandini25-ag/TextUtils)
+
+3. **NewsApp**
+   - Description: Created a web application enabling users to access daily updated news across various domains in a seamless and intuitive manner.
+   - My Contributions: Integrated News API for real-time retrieval and display of news articles.
+   - Repository: [NewsApp](https://github.com/nandini25-ag/NewsApp)
+<hr>
 
 ### 🛠 &nbsp;Tech Stack
 
