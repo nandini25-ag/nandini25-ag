@@ -1,7 +1,10 @@
+<img src="https://github.com/nandini25-ag/nandini25-ag/blob/main/banner.png" alt="Nandini Banner" style="width:100%;" />
+
 <h1 align="center">Hi 👋, I'm Nandini Agarwal</h1>
-<h3 align="center">Software Developer Engineer</h3>
+<h3 align="center">Software Developer | 800+ LeetCode Problems | Full Stack Engineer</h3>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Open%20to%20Work-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   <img src="https://komarev.com/ghpvc/?username=nandini25-ag&label=Profile%20views&color=brightgreen&style=flat" alt="Profile Views" />
 </p>
 
@@ -12,7 +15,7 @@
 - 💻 Software Developer at **Power Profit Technologies**
 - 🧠 Solved **800+ LeetCode problems**, Top 10% Contest Rank
 - 🚀 Passionate about **building scalable full-stack applications**
-- 📚 Currently exploring **System Design**, **DSA**, and advanced **Java/Spring Boot**
+- 🔍 Exploring **System Design**, **Java Spring Boot**, and **Cloud Development**
 
 ---
 
@@ -44,20 +47,26 @@
 
 ---
 
-### 📂 Featured Projects
+### 💼 Projects
 
 #### 🔹 [OpenMind](https://github.com/nandini25-ag/OpenMind)
-> Mobile app with OpenAI integration using React Native & Firebase
+> A mobile app using OpenAI's API for real-time chatbot experience
 
 #### 🔹 [TextUtils](https://github.com/nandini25-ag/TextUtils)
-> Text editing utility with case conversion, formatting, and preview
+> Web app for string formatting, case conversion, and text utilities
 
 #### 🔹 [NewsApp](https://github.com/nandini25-ag/NewsApp)
-> Daily news platform using NewsAPI with category-wise filtering
+> News dashboard using NewsAPI with filterable categories
 
 ---
 
-### 🔗 Let's Connect
+### 📊 LeetCode Activity
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/nandiniagarwal?ext=contest)](https://leetcode.com/nandiniagarwal/)
+
+---
+
+### 🔗 Connect With Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/nandini25agarwal/" target="_blank">
@@ -76,7 +85,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📈 GitHub Stats
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nandini25-ag&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
