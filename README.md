@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nandini Agarwal</h1>
-<h3 align="center">Software Developer | 800+ LeetCode Problems | Full Stack Engineer</h3>
+<h3 align="center">Software Developer Engineer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nandini25-ag&label=Profile%20views&color=brightgreen&style=flat" alt="Profile Views" />
