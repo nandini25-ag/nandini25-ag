@@ -1,101 +1,102 @@
-<img src="https://github.com/nandini25-ag/nandini25-ag/blob/main/banner.png" alt="Nandini Banner" style="width:100%;" />
-
-<h1 align="center">Hi 👋, I'm Nandini Agarwal</h1>
-<h3 align="center">Software Developer | 800+ LeetCode Problems | Full Stack Engineer</h3>
+<h1 align="center">Hi 👋, I'm <span style="color:#FF6F61">Nandini Agarwal</span></h1>
+<h3 align="center">Software Developer Engineer </h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Open%20to%20Work-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   <img src="https://komarev.com/ghpvc/?username=nandini25-ag&label=Profile%20views&color=brightgreen&style=flat" alt="Profile Views" />
 </p>
 
 ---
 
-### 👩‍💻 About Me
+## 💡 About Me
 
-- 💻 Software Developer at **Power Profit Technologies**
-- 🧠 Solved **800+ LeetCode problems**, Top 10% Contest Rank
-- 🚀 Passionate about **building scalable full-stack applications**
-- 🔍 Exploring **System Design**, **Java Spring Boot**, and **Cloud Development**
+- 🚀 Software Developer @ Power Profit Technologies
+- 🧠 Solved **800+ LeetCode problems** (Top 10% rank)
+- 🔧 Built scalable backend APIs and real-time AI dashboards using Spring Boot, Flask, FastAPI
+- 📊 Developed automation tools and integrated OpenAI for production-level systems
+- 🌱 Learning deeper **System Design**, **Microservices**, and clean architecture
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Toolbox
 
-**Languages:**  
+### Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=blue)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-**Frontend:**  
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-
-**Backend & DB:**  
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+### Backend
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=spring-boot)
 ![Flask](https://img.shields.io/badge/Flask-black?style=flat&logo=flask)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js)
 
-**Tools:**  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3)
+
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql)
+
+### Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code)
 
 ---
 
-### 💼 Projects
+## 🌟 Featured Projects
 
-#### 🔹 [OpenMind](https://github.com/nandini25-ag/OpenMind)
-> A mobile app using OpenAI's API for real-time chatbot experience
+### 🔹 [OpenMind](https://github.com/nandini25-ag/OpenMind)
+AI chatbot-powered mobile app built using React Native CLI and Firebase. Integrated OpenAI APIs to enable real-time AI assistant features.
 
-#### 🔹 [TextUtils](https://github.com/nandini25-ag/TextUtils)
-> Web app for string formatting, case conversion, and text utilities
-
-#### 🔹 [NewsApp](https://github.com/nandini25-ag/NewsApp)
-> News dashboard using NewsAPI with filterable categories
+### 🔹 [Mindology](https://github.com/nandini25-ag/Mindology)
+A mental health platform that provides journaling tools, motivational resources, and mood tracking, built with React and backend APIs using Flask.
 
 ---
 
-### 📊 LeetCode Activity
+## 📈 LeetCode Overview
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/nandiniagarwal?ext=contest)](https://leetcode.com/nandiniagarwal/)
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/nandiniagarwal?theme=light&ext=contest" />
+  <img src="https://leetcard.jacoblin.cool/nandiniagarwal?theme=light&ext=heatmap" />
+</div>
 
----
 
-### 🔗 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/nandini25agarwal/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/nandiniagarwal/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" />
-  </a>
-  <a href="mailto:nandini25agarwal@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/nandini25-ag" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github" />
-  </a>
-</p>
-
----
-
-### 📈 GitHub Stats
+## 🔗 Connect with Me
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nandini25-ag&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandini25-ag&layout=compact&theme=tokyonight" />
+  <a href="https://linkedin.com/in/nandini25agarwal" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:nandini25agarwal@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/nandiniagarwal">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://github.com/nandini25-ag">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
+  </a>
 </p>
 
 ---
 
-### 🔥 GitHub Streak
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nandini25-ag&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandini25-ag&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nandini25-ag&theme=nightowl" />
 </p>
+
