@@ -10,7 +10,7 @@
 ## 💡 About Me
 
 - 🎓 Passionate Software Developer with 1+ years of experience in full-stack product development
-- 🔧 Skilled in building scalable backend systems using **Java (Spring Boot)**, **Flask**, **FastAPI**, and deploying APIs
+- 🔧 Skilled in building scalable backend systems using **Java (Spring Boot)**,**Python** **Flask**, **FastAPI**, and deploying APIs
 - ⚡ Experienced in frontend development with **React**, **Angular**, and delivering clean UI/UX
 - 🤖 Integrated OpenAI APIs to build AI-powered solutions and automation tools
 - 🚀 Strong in **Data Structures & Algorithms** 
